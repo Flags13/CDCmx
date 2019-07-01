@@ -23,5 +23,4 @@
     3.3.1 Examples using 2-D data.
   3.4 Optimal number of clusters?
   3.5 Clustering in images.
-If we have time we can also comment on the next topics.
-4. Super light introduction to deep learning. Its advantages and disadvantages over classification and clustering algorithms.
+  3.6 Final Project
